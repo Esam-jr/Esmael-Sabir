@@ -302,7 +302,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://esmael-sabir.vercel.app/",
+          href: "https://esmael-sabir1.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
