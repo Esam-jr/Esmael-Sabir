@@ -57,7 +57,7 @@ export default function Page() {
               Work Experience and Certefications
             </h2>
           </BlurFade>
-          {DATA.work.map((work, id) => (
+          {DATA.work?.map((work, id) => (
             <BlurFade
               key={work.company}
               delay={BLUR_FADE_DELAY * 6 + id * 0.05}
