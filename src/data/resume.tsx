@@ -278,7 +278,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://yourprojectlink.com",
+          href: "https://recipe-finder-app-eight.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
